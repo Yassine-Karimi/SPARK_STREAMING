@@ -23,7 +23,13 @@ Incidents are streamed in CSV files (see the attached file). The data format in 
    * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/4b42ab48-a635-486e-bdfb-55ed247fa1be)
 
 
-* 2) code   
+* 2) code
+* * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/38bf21c8-9871-4843-a11e-70e750b243ba)
+  * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/23eb0f96-325d-4f8b-993c-a94c766feb96)
+  * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/b0ecbdf9-7c78-430b-ad39-35477b26dd94)
+
+
+
 
 
      
