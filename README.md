@@ -15,8 +15,15 @@ Incidents are streamed in CSV files (see the attached file). The data format in 
 
 * 1) code
 *  * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/edd05be7-cea6-46d3-a852-f5ed26e238a5)
-   * put the incidents.csv file at the specified hadoop directory then the application will detecte the file and compute the the number of incidents per service as follows:
+   * By putting the incidents.csv file at the specified hadoop directory , the application will detecte the the file and compute the the number of incidents per service as follows:
+   * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/ff25895f-19ad-4c94-8aa7-57e851c0f589)
    * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/f8bc0269-43df-4af1-a42b-16c29dabe279)
+   * then by adding more files that contains more data about incidents the application will compute the result again on streaming ; as an exemple let's add the same file in a diffrent name as incidents1.csv:
+   * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/44f1cfdc-9f38-4aaf-b70b-5cbdeff10088)
+   * ![image](https://github.com/Yassine-Karimi/SPARK_STREAMING/assets/66490404/4b42ab48-a635-486e-bdfb-55ed247fa1be)
+
+
+* 2) code   
 
 
      
